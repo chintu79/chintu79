@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I'm currently a student in AI and Data Science field.<br>I'm looking to collabrate with teams working on AI, Data science and Web development problems.<br>I'm looking for someone who can tell me about the IT culture and how does the ecosystem works.<br>I'm currently learning about Feature engineering and EDA.<br>Finally, I'm an student-athelete playing multiple sports.
 
 
