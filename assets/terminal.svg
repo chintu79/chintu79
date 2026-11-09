@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 446" role="img" aria-label="Terminal: whoami, about, projects, current focus and connect commands with output">
+  <defs>
+    <clipPath id="w1"><rect x="28" y="52" width="0" height="20"><animate attributeName="width" from="0" to="120" dur="0.35s" begin="0.30s" fill="freeze"/></rect></clipPath>
+    <clipPath id="w2"><rect x="28" y="114" width="0" height="20"><animate attributeName="width" from="0" to="150" dur="0.35s" begin="1.30s" fill="freeze"/></rect></clipPath>
+    <clipPath id="w3"><rect x="28" y="238" width="0" height="20"><animate attributeName="width" from="0" to="150" dur="0.35s" begin="2.60s" fill="freeze"/></rect></clipPath>
+    <clipPath id="w4"><rect x="28" y="300" width="0" height="20"><animate attributeName="width" from="0" to="215" dur="0.35s" begin="3.60s" fill="freeze"/></rect></clipPath>
+    <clipPath id="w5"><rect x="28" y="362" width="0" height="20"><animate attributeName="width" from="0" to="160" dur="0.35s" begin="4.60s" fill="freeze"/></rect></clipPath>
+    <style>
+      .out{opacity:0;animation:fade .3s ease-out forwards}
+      @keyframes fade{from{opacity:0}to{opacity:1}}
+      @media (prefers-reduced-motion: reduce){.out{opacity:1;animation:none}}
+    </style>
+  </defs>
+
+  <rect width="880" height="446" rx="12" fill="#0B0D10"/>
+  <rect x="0.5" y="0.5" width="879" height="445" rx="12" fill="none" stroke="#1F2733"/>
+  <line x1="0" y1="38" x2="880" y2="38" stroke="#1F2733"/>
+  <circle cx="24" cy="19" r="5" fill="#FF5F57"/>
+  <circle cx="42" cy="19" r="5" fill="#FEBC2E"/>
+  <circle cx="60" cy="19" r="5" fill="#28C840"/>
+  <text x="440" y="23.5" fill="#A1A1AA" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" text-anchor="middle">shreekrishna@github: ~ — zsh</text>
+
+  <!-- 1 whoami -->
+  <text x="28" y="68" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#7897FF" clip-path="url(#w1)">$ <tspan fill="#E8EAED">whoami</tspan></text>
+  <text x="28" y="99" class="out" style="animation-delay:.85s" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#A1A1AA">Shreekrishna Chinta — Full-stack Developer &amp; AI/DS undergrad</text>
+
+  <!-- 2 about -->
+  <text x="28" y="130" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#7897FF" clip-path="url(#w2)">$ <tspan fill="#E8EAED">cat about.md</tspan></text>
+  <text x="28" y="161" class="out" style="animation-delay:1.85s" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#A1A1AA">Full-stack dev with an ML lean. React &amp; Three.js up front,</text>
+  <text x="28" y="192" class="out" style="animation-delay:2.0s" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#A1A1AA">FastAPI &amp; Node behind. Building practical, intelligent</text>
+  <text x="28" y="223" class="out" style="animation-delay:2.15s" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#A1A1AA">products — agent-security research on the side.</text>
+
+  <!-- 3 ls projects -->
+  <text x="28" y="254" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#7897FF" clip-path="url(#w3)">$ <tspan fill="#E8EAED">ls projects/</tspan></text>
+  <text x="28" y="285" class="out" style="animation-delay:3.15s" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#70D6A1">obsync-plugin/  promptocalypse/  devs_second_brain/  argus/</text>
+
+  <!-- 4 current-focus -->
+  <text x="28" y="316" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#7897FF" clip-path="url(#w4)">$ <tspan fill="#E8EAED">cat current-focus.txt</tspan></text>
+  <text x="28" y="347" class="out" style="animation-delay:4.15s" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#A1A1AA">feature engineering · EDA · shipping products daily</text>
+
+  <!-- 5 connect -->
+  <text x="28" y="378" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#7897FF" clip-path="url(#w5)">$ <tspan fill="#E8EAED">./connect.sh</tspan></text>
+  <text x="28" y="409" class="out" style="animation-delay:5.15s" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#7897FF">portfolio → shreekrishnachinta.vercel.app · linkedin.com/in/shreekrishna-chinta</text>
+
+  <!-- cursor -->
+  <rect x="714" y="396" width="9" height="16" fill="#70D6A1">
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>

@@ -1,90 +1,148 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Shreekrishna — Full-stack AI Engineer" width="100%" />
+<img src="assets/banner.svg" width="100%" alt="Shreekrishna Chinta — Full-stack Developer and AI & Data Science undergrad"/>
 
-<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=900&color=E87536&center=true&vCenter=true&width=680&height=42&lines=Full-stack+AI+Engineer;AI+%26+Data+Science+Undergrad;Building+CareerOS+%C2%B7+GrammarRx+AI+%C2%B7+Dev+Second+Brain;Feature+Engineering+%26+EDA+nerd" alt="What I do" /></a>
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=7897FF&center=true&vCenter=true&width=640&height=40&lines=Full-stack+Developer;AI+%26+Data+Science+Undergrad;Building+CareerOS+%C2%B7+GrammarRx+AI;Feature+Engineering+%26+EDA" alt="Typing animation: what I do"/></a>
 
-<br/>
-
-<a href="https://shreekrishnachinta.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-%23E87536?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/shreekrishna-chinta"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/_.krishnaa12"><img alt="Instagram" src="https://img.shields.io/badge/INSTAGRAM-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<p>
+<a href="https://shreekrishnachinta.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-%237897FF?style=for-the-badge&logo=vercel&logoColor=#0B0D10"/></a>
+<a href="https://linkedin.com/in/shreekrishna-chinta"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:shrikrishnachinta79@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<img src="assets/divider.svg" width="880" alt=""/>
 
 </div>
 
-## `01 // about`
+## `~/ $ whoami`
 
-AI & Data Science undergrad at AISSMS IOIT, Pune. I build end-to-end intelligent products — from database schema to shipped interface. Currently deep into **feature engineering & EDA**, and always up for collaborating on AI, Data Science and Web Dev problems.
+<div align="center">
+<img src="assets/terminal.svg" width="100%" alt="Terminal — whoami, cat about.md, ls projects/, cat current-focus.txt, ./connect.sh"/>
+</div>
 
-Off the keyboard, I'm a student-athlete playing multiple sports — discipline from one carries over to the other.
+AI & Data Science undergrad @ AISSMS IOIT, Pune. I build end-to-end intelligent products — database schema to shipped interface — with a soft spot for 3D, motion and developer tooling. Off the keyboard: student-athlete, currently losing arguments with feature-engineering pipelines in public.
 
-## `02 // featured work`
-
-| Project | What it is | Stack |
-| :-- | :-- | :-- |
-| [**obsync-plugin**](https://github.com/chintu79/obsync-plugin) | Free, local-first P2P sync for your Obsidian vault — no cloud, no account | TypeScript |
-| [**devs_second_brain**](https://github.com/chintu79/devs_second_brain) | Developer knowledge OS — capture, connect, retrieve notes, prompts & resources + Chrome extension | JavaScript |
-| [**Insyte**](https://github.com/chintu79/Insyte) | Full-stack CSV upload → preview app (FastAPI + React/Vite) | Python · React |
-| [**promptocalypse**](https://github.com/chintu79/promptocalypse) | AI jailbreak arena — real-time red-team CTF against defended LLM chatbots | FastAPI · React · Groq |
-| [**wastematch**](https://github.com/chintu79/wastematch) | Search-first B2B marketplace turning industrial waste into raw material | FastAPI · PostGIS · TS |
-| [**kinetic-portfolio**](https://github.com/chintu79/kinetic-portfolio) | This portfolio's source — bold, kinetic, dark-mode single-page site | TypeScript |
-| [**argus**](https://github.com/chintu79/argus) | Budget-constrained adaptive security evaluation of AI agents (research prototype) | Python |
-
-Also on the portfolio: **CareerOS** · **GrammarRx AI** · **Interactive 3D Experience** → [shreekrishnachinta.vercel.app](https://shreekrishnachinta.vercel.app)
-
-## `03 // the tools behind the thinking`
+## `~/ $ cat stack.md`
 
 **Languages**
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%2359A5F5) ![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%23243E62.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**AI · Data Science**
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black) ![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![FastAPI](https://img.shields.io/badge/fastapi-%230099A8.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python&theme=dark&perline=10" alt="C, C++, JavaScript, TypeScript, Python"/>
 
-**Web**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Three.js](https://img.shields.io/badge/three.js-black.svg?style=for-the-badge&logo=threedotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
+**Frontend**
 
-**Data · Tools**
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,vite&theme=dark&perline=10" alt="React, Next.js, Tailwind CSS, Three.js, Vite"/>
 
-## `04 // github pulse`
+**Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,mongodb,postgres,sqlite,mysql&theme=dark&perline=10" alt="Node.js, Express, FastAPI, Flask, MongoDB, PostgreSQL, SQLite, MySQL"/>
+
+**AI & Data Science**
+
+![Pandas](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Jupyter](https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+<sub>also playing with Ollama · LangChain · Whisper · OpenRouter</sub>
+
+**Tooling**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,neovim,vscode,figma&theme=dark&perline=10" alt="Git, GitHub, Linux, Docker, Neovim, VS Code, Figma"/>
+
+## `~/ $ ls projects/ -l`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [obsync-plugin](https://github.com/chintu79/obsync-plugin)
+Local-first P2P sync for Obsidian vaults — no cloud, no account. Encrypted, peer-to-peer, your notes never touch a server.
+
+`TypeScript` `Obsidian API` `P2P`
+
+</td>
+<td width="50%" valign="top">
+
+### [promptocalypse](https://github.com/chintu79/promptocalypse)
+AI jailbreak arena — a real-time red-team CTF where attackers extract hidden keys from progressively defended LLM chatbots.
+
+`FastAPI` `React 19` `Groq` `SQLite`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [devs_second_brain](https://github.com/chintu79/devs_second_brain)
+Developer knowledge OS — capture, connect and rediscover notes, prompts and resources. Ships with a Chrome extension for one-click capture.
+
+`JavaScript` `Chrome Extension`
+
+</td>
+<td width="50%" valign="top">
+
+### [argus](https://github.com/chintu79/argus)
+Budget-constrained adaptive security evaluation of AI agents — research prototype on efficient failure discovery under a fixed evaluation budget.
+
+`Python` `LLM Agents` `Security`
+
+</td>
+</tr>
+</table>
+
+More on the portfolio — **CareerOS**, **GrammarRx AI**, an **Interactive 3D Experience** → [shreekrishnachinta.vercel.app](https://shreekrishnachinta.vercel.app)
+
+## `~/ $ ./stats.sh`
 
 <div align="center">
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chintu79&theme=dark" alt="GitHub stats" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chintu79&theme=dark" alt="Most commit languages" />
+<img src="assets/stats.svg" width="880" alt="Current streak, longest streak, contributions in the last year, active days — auto-refreshed daily"/>
 
-<br/>
+<img src="assets/contrib-heatmap.svg" width="880" alt="Contribution graph — auto-refreshed daily"/>
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chintu79&theme=dark" alt="Repos per language" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chintu79&theme=dark" alt="Productive time" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chintu79&theme=tokyonight" alt="Languages by commit"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chintu79&theme=tokyonight" alt="Languages by repo"/>
 
+<sub>stats &amp; graph generated daily from real data via <a href=".github/workflows/update-profile-art.yml">GitHub Actions</a> — never hardcoded</sub>
 
 </div>
 
 <details>
-<summary>🚫 <b>do not press</b> — easter egg</summary>
+<summary>🚫 <b>.hidden — do not open</b></summary>
 
 <br/>
 
-<p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" alt="waving hand"/></p>
+You weren't supposed to find this.
 
-You found it. 🎉
+I'm a student-athlete who codes between training sessions. Most of my best ideas arrive mid-sprint. If you're an engineering team, a collaborator, or a fellow student-builder — [my inbox](mailto:shrikrishnachinta79@gmail.com) is open, and I take interesting problems more seriously than most internship applications.
 
-I'm a student-athlete who codes between training sessions. Currently fighting feature-engineering pipelines and prompt-injection chatbots — and winning, mostly. Twice I lost the argument, but the pipelines get what they deserve.
-
-If you're building something interesting in **AI / Data Science / Web Dev** — bring it on. I answer every serious collab proposal: [shrikrishnachinta79@gmail.com](mailto:shrikrishnachinta79@gmail.com)
+📜 Terms: zero contribution streaks were harmed in the making of this profile.
 
 </details>
 
----
+## `~/ $ ./connect.sh`
+
+<table align="center">
+<tr>
+<td valign="middle" width="130">
+<img src="assets/mascot.svg" width="110" alt="Patch — pixel-art robot developer"/>
+</td>
+<td valign="middle">
+
+**Let's build something worth shipping.**
+
+Currently into feature engineering, EDA and agent-security research — and open to internships, collaborations and interesting open problems in AI · DS · Web Dev.
+
+→ [portfolio](https://shreekrishnachinta.vercel.app) · [linkedin](https://linkedin.com/in/shreekrishna-chinta) · [github](https://github.com/chintu79) · [email](mailto:shrikrishnachinta79@gmail.com)
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-**Building in public — always open to interesting problems.**
+```
+shreekrishna@github ~ $ exit
+logout — thanks for scrolling. ▌
+```
 
-[portfolio](https://shreekrishnachinta.vercel.app) · [linkedin](https://linkedin.com/in/shreekrishna-chinta) · [instagram](https://instagram.com/_.krishnaa12) · [email](mailto:shrikrishnachinta79@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=chintu79&color=E87536&style=for-the-badge&label=VISITORS" alt="visitor count"/>
+<img src="https://komarev.com/ghpvc/?username=chintu79&color=7897FF&style=for-the-badge&label=VISITORS" alt="visitor count"/>
 
 </div>
