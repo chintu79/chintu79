@@ -14,6 +14,10 @@ name: Update profile art
 permissions:
   contents: write
 
+concurrency:
+  group: update-profile-art
+  cancel-in-progress: false
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
