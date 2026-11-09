@@ -59,9 +59,6 @@ Also on the portfolio: **CareerOS** · **GrammarRx AI** · **Interactive 3D Expe
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chintu79&theme=dark" alt="Repos per language" />
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chintu79&theme=dark" alt="Productive time" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=chintu79&background=171817&ring=E87536&fire=E87536&currStreakLabel=E87536&sideLabels=e8e3da&sideNums=e8e3da&dates=8b8b85&hide_border=true" alt="GitHub streak" />
 
 </div>
 
