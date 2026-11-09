@@ -122,7 +122,7 @@ I'm a student-athlete who codes between training sessions. Most of my best ideas
 <table align="center">
 <tr>
 <td valign="middle" width="130">
-<img src="assets/mascot.svg" width="110" alt="Patch — pixel-art robot developer"/>
+<img src="assets/avatar.svg" width="110" alt="Patch — pixel-art robot developer avatar"/>
 </td>
 <td valign="middle">
 
