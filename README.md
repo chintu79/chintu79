@@ -51,16 +51,17 @@ Also on the portfolio: **CareerOS** · **GrammarRx AI** · **Interactive 3D Expe
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=chintu79&show_icons=true&include_all_commits=true&count_private=false&bg_color=171817&title_color=E87536&icon_color=E87536&text_color=e8e3da&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintu79&layout=compact&langs_count=8&bg_color=171817&title_color=E87536&text_color=e8e3da&hide_border=true" alt="Top languages" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chintu79&theme=dark" alt="GitHub stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chintu79&theme=dark" alt="Most commit languages" />
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=chintu79&background=171817&ring=E87536&fire=E87536&currStreakLabel=E87536&sideLabels=e8e3da&sideNums=e8e3da&dates=8b8b85&hide_border=true" alt="GitHub streak" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chintu79&theme=dark" alt="Repos per language" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chintu79&theme=dark" alt="Productive time" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chintu79&bg_color=171817&color=e8e3da&line=E87536&point=E87536&area_color=E87536&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity" width="95%" />
+<img src="https://streak-stats.demolab.com?user=chintu79&background=171817&ring=E87536&fire=E87536&currStreakLabel=E87536&sideLabels=e8e3da&sideNums=e8e3da&dates=8b8b85&hide_border=true" alt="GitHub streak" />
 
 </div>
 
@@ -87,6 +88,6 @@ If you're building something interesting in **AI / Data Science / Web Dev** — 
 
 [portfolio](https://shreekrishnachinta.vercel.app) · [linkedin](https://linkedin.com/in/shreekrishna-chinta) · [instagram](https://instagram.com/_.krishnaa12) · [email](mailto:shrikrishnachinta79@gmail.com)
 
-<img src="https://visitcount.itsvg.in/api?id=chintu79&icon=0&color=0" alt="visitor count"/>
+<img src="https://komarev.com/ghpvc/?username=chintu79&color=E87536&style=for-the-badge&label=VISITORS" alt="visitor count"/>
 
 </div>
