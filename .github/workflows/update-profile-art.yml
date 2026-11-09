@@ -1,15 +1,12 @@
 name: Update profile art
 
-# Refreshes the contribution graph + stats card SVGs daily from real data.
-# Runs daily, on push to main, and on-demand. No secrets required —
+# Runs daily and on-demand. No secrets required —
 # contributions come from GitHub's public HTML fragment, stats from public REST.
 
 "on":
   schedule:
     - cron: "23 5 * * *"   # ~05:23 UTC every day
   workflow_dispatch: {}
-  push:
-    branches: [main]
 
 permissions:
   contents: write
