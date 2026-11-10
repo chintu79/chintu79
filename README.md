@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg?v=3" width="100%" alt="Shreekrishna Chinta — Full-stack Developer and AI & Data Science undergrad"/>
+<img src="assets/hero.svg" width="100%" alt="Shreekrishna Chinta — Full-stack Developer and AI & Data Science undergrad"/>
 
 <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=E87536&center=true&vCenter=true&width=640&height=40&lines=Full-stack+Developer;AI+%26+Data+Science+Undergrad;Building+CareerOS+%C2%B7+GrammarRx+AI;Feature+Engineering+%26+EDA" alt="Typing animation: what I do"/></a>
 
@@ -10,14 +10,14 @@
 <a href="mailto:shrikrishnachinta79@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<img src="assets/divider.svg?v=3" width="880" alt=""/>
+<img src="assets/rule.svg" width="880" alt=""/>
 
 </div>
 
 ## `~/ $ whoami`
 
 <div align="center">
-<img src="assets/terminal.svg?v=3" width="100%" alt="Terminal — whoami, cat about.md, ls projects/, cat current-focus.txt, ./connect.sh"/>
+<img src="assets/shell.svg" width="100%" alt="Terminal — whoami, cat about.md, ls projects/, cat current-focus.txt, ./connect.sh"/>
 </div>
 
 AI & Data Science undergrad @ AISSMS IOIT, Pune. I build end-to-end intelligent products — database schema to shipped interface — with a soft spot for 3D, motion and developer tooling. Off the keyboard: student-athlete, currently losing arguments with feature-engineering pipelines in public.
@@ -93,9 +93,9 @@ More on the portfolio — **CareerOS**, **GrammarRx AI**, an **Interactive 3D Ex
 
 <div align="center">
 
-<img src="assets/stats.svg?v=3" width="880" alt="Current streak, longest streak, contributions in the last year, active days — auto-refreshed daily"/>
+<img src="assets/pulse.svg" width="880" alt="Current streak, longest streak, contributions in the last year, active days — auto-refreshed daily"/>
 
-<img src="assets/contrib-heatmap.svg?v=3" width="880" alt="Contribution graph — auto-refreshed daily"/>
+<img src="assets/graph.svg" width="880" alt="Contribution graph — auto-refreshed daily"/>
 
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chintu79&theme=gruvbox" alt="Languages by commit"/>
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chintu79&theme=gruvbox" alt="Languages by repo"/>
@@ -122,7 +122,7 @@ I'm a student-athlete who codes between training sessions. Most of my best ideas
 <table align="center">
 <tr>
 <td valign="middle" width="130">
-<img src="assets/avatar.svg?v=3" width="110" alt="Patch — pixel-art robot developer avatar"/>
+<img src="assets/patch.svg" width="110" alt="Patch — pixel-art robot developer avatar"/>
 </td>
 <td valign="middle">
 

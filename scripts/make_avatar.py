@@ -85,7 +85,7 @@ parts.append(spark(452, 88))
 parts.append(spark(62, 300, "#D9622B"))
 parts.append('</svg>')
 
-OUT = os.path.join(os.path.dirname(__file__), "..", "assets", "avatar.svg")
+OUT = os.path.join(os.path.dirname(__file__), "..", "assets", "patch.svg")
 with open(OUT, "w") as f:
     f.write("".join(parts))
 print("wrote", OUT)
