@@ -20,9 +20,9 @@ PANEL = "#10141B"
 FRAME = "#1F2733"
 MUTED = "#A1A1AA"
 INK = "#E8EAED"
-ACCENT = "#7897FF"
+ACCENT = "#E87536"
 # level 0..4 -- blue ramp on near-black
-LEVELS = ["#161B24", "#1E2C4E", "#2E4580", "#4C68B8", "#7897FF"]
+LEVELS = ["#1C1917", "#33241A", "#54301F", "#844A28", "#E87536"]
 
 W, H = 880, 172
 CELL, GAP = 11, 3.5

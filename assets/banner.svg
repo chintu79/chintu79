@@ -4,13 +4,13 @@
       <path d="M 44 0 H 0 V 44" fill="none" stroke="#141922" stroke-width="1"/>
     </pattern>
     <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#7897FF"/>
-      <stop offset="1" stop-color="#7897FF" stop-opacity="0"/>
+      <stop offset="0" stop-color="#E87536"/>
+      <stop offset="1" stop-color="#E87536" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#7897FF" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#7897FF" stop-opacity="0.4"/>
-      <stop offset="1" stop-color="#7897FF" stop-opacity="0"/>
+      <stop offset="0" stop-color="#E87536" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#E87536" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#E87536" stop-opacity="0"/>
     </linearGradient>
   </defs>
 
@@ -29,10 +29,10 @@
   <text x="836" y="284" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9" fill="#39404F" text-anchor="end">18.52°N 73.85°E · PUNE</text>
 
   <!-- kicker -->
-  <text x="42" y="72" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#7897FF">// ~/profile — shreekrishna@github</text>
+  <text x="42" y="72" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#E87536">// ~/profile — shreekrishna@github</text>
 
   <!-- wordmark -->
-  <text x="40" y="142" font-family="'Space Grotesk', 'Arial Black', sans-serif" font-weight="800" font-size="62" letter-spacing="1" fill="#E8EAED">SHREEKRISHNA<tspan fill="#7897FF"> CHINTA</tspan></text>
+  <text x="40" y="142" font-family="'Space Grotesk', 'Arial Black', sans-serif" font-weight="800" font-size="62" letter-spacing="1" fill="#E8EAED">SHREEKRISHNA<tspan fill="#E87536"> CHINTA</tspan></text>
 
   <!-- role -->
   <text x="42" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14.5" fill="#A1A1AA">full-stack developer · ai &amp; data science undergrad</text>
@@ -47,7 +47,7 @@
   <circle r="9" fill="url(#glow)" opacity="0.85">
     <animateMotion dur="8s" repeatCount="indefinite" path="M -16 248 H 896"/>
   </circle>
-  <circle r="3" fill="#7897FF">
+  <circle r="3" fill="#E87536">
     <animateMotion dur="8s" repeatCount="indefinite" path="M -16 248 H 896"/>
   </circle>
 

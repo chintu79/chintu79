@@ -21,26 +21,26 @@
   <text x="440" y="23.5" fill="#A1A1AA" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" text-anchor="middle">shreekrishna@github: ~ — zsh</text>
 
   <!-- 1 whoami -->
-  <text x="28" y="68" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#7897FF" clip-path="url(#w1)">$ <tspan fill="#E8EAED">whoami</tspan></text>
+  <text x="28" y="68" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#E87536" clip-path="url(#w1)">$ <tspan fill="#E8EAED">whoami</tspan></text>
   <text x="28" y="99" class="out" style="animation-delay:.85s" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#A1A1AA">Shreekrishna Chinta — Full-stack Developer &amp; AI/DS undergrad</text>
 
   <!-- 2 about -->
-  <text x="28" y="130" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#7897FF" clip-path="url(#w2)">$ <tspan fill="#E8EAED">cat about.md</tspan></text>
+  <text x="28" y="130" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#E87536" clip-path="url(#w2)">$ <tspan fill="#E8EAED">cat about.md</tspan></text>
   <text x="28" y="161" class="out" style="animation-delay:1.85s" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#A1A1AA">Full-stack dev with an ML lean. React &amp; Three.js up front,</text>
   <text x="28" y="192" class="out" style="animation-delay:2.0s" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#A1A1AA">FastAPI &amp; Node behind. Building practical, intelligent</text>
   <text x="28" y="223" class="out" style="animation-delay:2.15s" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#A1A1AA">products — agent-security research on the side.</text>
 
   <!-- 3 ls projects -->
-  <text x="28" y="254" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#7897FF" clip-path="url(#w3)">$ <tspan fill="#E8EAED">ls projects/</tspan></text>
+  <text x="28" y="254" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#E87536" clip-path="url(#w3)">$ <tspan fill="#E8EAED">ls projects/</tspan></text>
   <text x="28" y="285" class="out" style="animation-delay:3.15s" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#70D6A1">obsync-plugin/  promptocalypse/  devs_second_brain/  argus/</text>
 
   <!-- 4 current-focus -->
-  <text x="28" y="316" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#7897FF" clip-path="url(#w4)">$ <tspan fill="#E8EAED">cat current-focus.txt</tspan></text>
+  <text x="28" y="316" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#E87536" clip-path="url(#w4)">$ <tspan fill="#E8EAED">cat current-focus.txt</tspan></text>
   <text x="28" y="347" class="out" style="animation-delay:4.15s" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#A1A1AA">feature engineering · EDA · shipping products daily</text>
 
   <!-- 5 connect -->
-  <text x="28" y="378" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#7897FF" clip-path="url(#w5)">$ <tspan fill="#E8EAED">./connect.sh</tspan></text>
-  <text x="28" y="409" class="out" style="animation-delay:5.15s" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#7897FF">portfolio → shreekrishnachinta.vercel.app · linkedin.com/in/shreekrishna-chinta</text>
+  <text x="28" y="378" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#E87536" clip-path="url(#w5)">$ <tspan fill="#E8EAED">./connect.sh</tspan></text>
+  <text x="28" y="409" class="out" style="animation-delay:5.15s" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#E87536">portfolio → shreekrishnachinta.vercel.app · linkedin.com/in/shreekrishna-chinta</text>
 
   <!-- cursor -->
   <rect x="714" y="396" width="9" height="16" fill="#70D6A1">

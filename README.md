@@ -2,10 +2,10 @@
 
 <img src="assets/banner.svg" width="100%" alt="Shreekrishna Chinta — Full-stack Developer and AI & Data Science undergrad"/>
 
-<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=7897FF&center=true&vCenter=true&width=640&height=40&lines=Full-stack+Developer;AI+%26+Data+Science+Undergrad;Building+CareerOS+%C2%B7+GrammarRx+AI;Feature+Engineering+%26+EDA" alt="Typing animation: what I do"/></a>
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=E87536&center=true&vCenter=true&width=640&height=40&lines=Full-stack+Developer;AI+%26+Data+Science+Undergrad;Building+CareerOS+%C2%B7+GrammarRx+AI;Feature+Engineering+%26+EDA" alt="Typing animation: what I do"/></a>
 
 <p>
-<a href="https://shreekrishnachinta.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-%237897FF?style=for-the-badge&logo=vercel&logoColor=#0B0D10"/></a>
+<a href="https://shreekrishnachinta.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-%23E87536?style=for-the-badge&logo=vercel&logoColor=#0B0D10"/></a>
 <a href="https://linkedin.com/in/shreekrishna-chinta"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:shrikrishnachinta79@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
@@ -97,8 +97,8 @@ More on the portfolio — **CareerOS**, **GrammarRx AI**, an **Interactive 3D Ex
 
 <img src="assets/contrib-heatmap.svg" width="880" alt="Contribution graph — auto-refreshed daily"/>
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chintu79&theme=tokyonight" alt="Languages by commit"/>
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chintu79&theme=tokyonight" alt="Languages by repo"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chintu79&theme=gruvbox" alt="Languages by commit"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chintu79&theme=gruvbox" alt="Languages by repo"/>
 
 <sub>stats &amp; graph generated daily from real data via <a href=".github/workflows/update-profile-art.yml">GitHub Actions</a> — never hardcoded</sub>
 
@@ -143,6 +143,6 @@ shreekrishna@github ~ $ exit
 logout — thanks for scrolling. ▌
 ```
 
-<img src="https://komarev.com/ghpvc/?username=chintu79&color=7897FF&style=for-the-badge&label=VISITORS" alt="visitor count"/>
+<img src="https://komarev.com/ghpvc/?username=chintu79&color=E87536&style=for-the-badge&label=VISITORS" alt="visitor count"/>
 
 </div>
