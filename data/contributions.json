@@ -1,22 +1,22 @@
 {
   "username": "chintu79",
-  "generated_at": "2026-11-25T15:51:59Z",
+  "generated_at": "2026-11-26T15:30:28Z",
   "range": {
     "start": "2025-11-23",
+    "end": "2026-11-26"
+  },
+  "total_contributions": 782,
+  "active_days": 103,
+  "avg_per_active_day": 7.6,
+  "current_streak": {
+    "length": 18,
+    "start": "2026-11-08",
     "end": "2026-11-25"
   },
-  "total_contributions": 781,
-  "active_days": 102,
-  "avg_per_active_day": 7.7,
-  "current_streak": {
-    "length": 17,
-    "start": "2026-11-08",
-    "end": "2026-11-24"
-  },
   "longest_streak": {
-    "length": 17,
+    "length": 18,
     "start": "2026-11-08",
-    "end": "2026-11-24"
+    "end": "2026-11-25"
   },
   "best_day": {
     "date": "2026-10-09",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-11",
-      "total": 67
+      "total": 68
     }
   ],
   "days": [
@@ -1914,6 +1914,11 @@
     },
     {
       "date": "2026-11-25",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-11-26",
       "count": 0,
       "level": 0
     }
